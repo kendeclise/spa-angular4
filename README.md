@@ -2,7 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
 
-## Development server
+## Instalación
+Use el comando `git clone https://github.com/kendeclise/spa-angular4.git`, luego posicionarse dentro de la carpeta del proyecto y use el comando `npm install` para descargar todas las dependencias del proyecto.
+
+## Development server (Deploy de la app en el browser)
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
